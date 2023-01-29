@@ -41,9 +41,9 @@ def getValue():
      return render_template('error.html')
      
   result.to_csv("static/files/result.csv",index=False)
-  email_sender = 'ankitasharma967672@gmail.com'
-  # 'ridhimagupta0212@gmail.com'
-  email_password = 'luteqppisuwuikis'
+  email_sender = 'your e-mail'
+  
+  email_password = 'your password'
   
   
   em = EmailMessage()
