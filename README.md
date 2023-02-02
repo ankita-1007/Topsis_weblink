@@ -14,9 +14,12 @@ Access my weblink at
 
 ![Screenshot (607)](https://user-images.githubusercontent.com/100415671/216342231-4160e3ed-37b6-4561-a64b-92b0e8d5c3fe.png)
 
-
-Upload your .csv file following all the rules and the other fields. <br>
-Result csv file will be sent to your entered e-mail.
+<h3>Rules for entering the values in form </h3>
+1. Number of weights and number of impacts must be equal.<br>
+2. The impacts must be '+' or '-'.<br>
+3. Number of columns must be greater than equal to 3.<br>
+4. Number of columns of file and number of weights/impacts must be equal.<br>
+5. All the columns except the first one must be numeric.<br>
 
 
 
