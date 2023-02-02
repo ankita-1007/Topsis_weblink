@@ -1,5 +1,6 @@
 <h1>Title: Topsis Weblink</h1>
-A weblink to calculate topsis score for your datasets
+<h2>Description </h2>
+A weblink to calculate topsis score for your datasets.It is helpful for handling problems related to Multiple Criteria Decision Making(MCDM) where there are more than one features to consider while arriving at a situation.By using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS),we can efficient conclusions to help us arrive at the decision
 
 
 <h2> 1. Live link </h2>
