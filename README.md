@@ -2,11 +2,11 @@
 A weblink to calculate topsis score for your datasets
 
 
-<h3> 1. Live link </h3>
+<h2> 1. Live link </h2>
 Access my weblink at 
 <a href="http://ankita1007.pythonanywhere.com/" target="_blank">TOPSIS-weblink</a>
 
-<h3> 2. Screenshot of the interface</h3>
+<h2> 2. Screenshot of the interface</h2>
 
 
 
@@ -14,7 +14,7 @@ Access my weblink at
 
 ![Screenshot (607)](https://user-images.githubusercontent.com/100415671/216342231-4160e3ed-37b6-4561-a64b-92b0e8d5c3fe.png)
 
-<h3>3. Rules for entering the values in form </h3>
+<h2>3. Rules for entering the values in form </h2>
 1. Number of weights and number of impacts must be equal.<br>
 2. The impacts must be '+' or '-'.<br>
 3. Number of columns must be greater than equal to 3.<br>
